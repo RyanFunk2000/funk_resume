@@ -28,11 +28,11 @@ __BYU - Pathway Worldwide__
 ### Projects
 
 `February 2021 - March 2021`
-__Brigham Young University, Idaho__, Rexburg, ID
+__Web Fundamentals - Final Project Website__, BYU Idaho
 
 - Used HTML and CSS to create a mock business website. 
 - Designed each page with wireframe images.
-- Created style guide for both light and dark modes.
+- Version controlled with Git and GitHub.
 
 ## Service and Work History
 
